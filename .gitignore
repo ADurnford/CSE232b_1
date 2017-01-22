@@ -30,3 +30,4 @@ _ReSharper*/
 .idea/
 *.iml
 *.iws
+*.class
